@@ -1,0 +1,2 @@
+Django~=5.0.1
+sweetify~=2.3.1
